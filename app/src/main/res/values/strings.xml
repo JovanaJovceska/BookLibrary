@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="login_txt">Login</string>
+    <string name="reg_txt">Don\'t have an account? Sign up now</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="reg_title">Registration</string>
+    <string name="name">Name</string>
+    <string name="cpass">Confirm password</string>
+    <string name="reg_btn">Register</string>
+    <string name="adminPage">Dashboard Admin</string>
+    <string name="userPage">Welcome</string>
+    <string name="addCategory">+ Add category</string>
+    <string name="addCategoryPage">Add category</string>
+    <string name="categoryName">Category Name</string>
+    <string name="submit">Submit</string>
+    <string name="new_book">Add new book</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_desc">Book Description</string>
+    <string name="book_cat">Choose Book Category</string>
+    <string name="attachbook">Upload Book</string>
+</resources>
